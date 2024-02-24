@@ -1,0 +1,11 @@
+{
+  "name": "tlv_night",
+  "version": "1.0.1",
+  "description": "TLV Night - Dark mode overlay Istanbul HTML report.",
+  "keywords": ["tlv", "tel", "aviv", "night", "istanbul", "html", "report", "dark", "mode"],
+  "author": "Eldar Eliav",
+  "license": "Apache 2.0",
+  "bin": {
+    "tlv_night": "./src/tlv_night.js"
+  }
+}
