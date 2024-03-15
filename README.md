@@ -1,10 +1,10 @@
 # TLV Night 🌃
 
-<img src="./src/favicon.png" width="250px">
+<img src="https://raw.githubusercontent.com/eldare/tlv_night/main/src/favicon.png" width="250px">
 
 TLV Night, aka Tel-Aviv Night, is a command line utility designed to overlay Istanbul HTML coverage reports with a soothing Dark Mode.
 
-# Installation
+## Installation
 
 Get TLV Night running in your dev environment with npm:
 
